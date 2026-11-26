@@ -4,7 +4,7 @@
     "skill-as32-build-debug": {
       "version": "1.0.2",
       "url": "https://cdn.jsdelivr.net/gh/zw611824/ansilic-resources-test@skills/as32-build-debug-v1.0.2.zip",
-      "sha256": 37941A4022A655E92FEBFA0FA4CB1ADDFC3F6E2E57F66F7FECF8C0C4CEA7BF0D"
+      "sha256": "37941A4022A655E92FEBFA0FA4CB1ADDFC3F6E2E57F66F7FECF8C0C4CEA7BF0D"
     },
     "skill-as32-peripheral-codegen": {
       "version": "1.0.1",
