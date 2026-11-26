@@ -1,0 +1,2 @@
+# ansilic-resources-test
+test
